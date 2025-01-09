@@ -1,0 +1,26 @@
+.mini{
+    letter-spacing: 4px;
+    text-align: right;
+ 
+}
+ .edit{
+    background-image:linear-gradient(10deg,crimson,hotpink)
+}
+.edit-header{
+    color: rgb(83, 181, 255);
+}
+
+ 
+.sabji{
+    height:200px;
+}
+
+
+.bg-success {
+    background-color: #1a5a93;
+}
+
+navbar {
+    background-color: #1a5a93;
+}
+
